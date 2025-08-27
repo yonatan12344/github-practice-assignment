@@ -12,5 +12,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r}
 3 + 3 
 ```
-
+# Name of the data I am working with, and what it actually is.
+# In addition dates of collection for the data.
+# Lastly explanations for data formatting, and explaining what could be causing any
+# outliers or anything.
 
